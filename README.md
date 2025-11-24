@@ -2,7 +2,7 @@
 
 # Nama : Muhammad Ridho Hafiedz
 # Nim  : 312410195
-# Kelas: TI.24.A2**
+# Kelas: TI.24.A2
 
 
 **1. index.php (Front Controller)**
